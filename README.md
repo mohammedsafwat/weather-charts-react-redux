@@ -2,7 +2,7 @@
 
 A React-Redux application that is used to display the next 5 days forecast for a list of cities that the user can search for.
 
-![Weather Charts Screenshot](https://imgur.com/a/U30kerk)
+![Weather Charts Screenshot](https://imgur.com/IF83J6K)
 
 ### Getting Started
 
