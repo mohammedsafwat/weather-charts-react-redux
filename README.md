@@ -1,23 +1,12 @@
-# ReduxSimpleStarter
+# Weather Charts
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A React-Redux application that is used to display the next 5 days forecast for a list of cities that the user can search for.
+
+![Weather Charts Screenshot](https://imgur.com/a/U30kerk)
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Checkout this repo, change to the project directory, and then run:
 
 ```
 > npm install
